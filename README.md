@@ -1,2 +1,4 @@
 # Link-Nimir-XX-di-Bii
- Gabut
+Gabut
+## Preview
+[Preview](https://henhen02.github.io/Link-Nimir-XX-di-Bii/)
